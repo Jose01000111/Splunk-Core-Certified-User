@@ -112,6 +112,4 @@ Each row includes:
 | [**Create Alerts**](#create-alerts) | Scheduled or real-time. | Lab |
 | [**View Fired Alerts**](#view-fired-alerts) | Alert logs and GUI history. | — |
 
----
 
----
